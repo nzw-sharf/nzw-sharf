@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm nzw-sharf</h1>
-<h3 align="center">Full-stack dev in UAE 🇦🇪 | Laravel, React, Next.js | Crafting sleek tools & web platforms | Clean code. Smart solutions. 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nzw-sharf" alt="nzw-sharf" /></a> </p>
+<h1 align="left">Hi 👋, I'm nzw-sharf</h1>
+<h3 align="left">Full-stack dev in UAE 🇦🇪 </h3>
 
 - 🔭 I’m currently working on **Marketing Portal for Unique Properties**
 
@@ -28,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzw-sharf&show_icons=true&locale=en" alt="nzw-sharf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzw-sharf&" alt="nzw-sharf" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nzw-sharf&no-bg=true" alt="nzw-sharf" /></a> </p>
